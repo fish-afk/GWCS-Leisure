@@ -3,7 +3,7 @@
     // Set your database connection information
     $server = "localhost";
     $username = "root";
-    $password = "Shihab786..";
+    $password = "password";
     $dbname = "GWCS_Shihab_Mirza";
 
     // Create a connection to the database
